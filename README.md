@@ -51,5 +51,7 @@ This exploratory data analysis (EDA) project investigates electricity consumptio
 
 ## 📂 Project Structure
 ├── Electricity_consumption_Data_Analysis_tutorial.ipynb
+
 ├── electricity_consumption.csv
+
 └── README.md
