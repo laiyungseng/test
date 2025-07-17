@@ -55,3 +55,23 @@ This exploratory data analysis (EDA) project investigates electricity consumptio
 ├── electricity_consumption.csv
 
 └── README.md
+
+---
+
+🧠 What I Learned
+How to structure a real-world dataset for analysis
+
+Techniques for checking and cleaning data
+
+Building clear visual narratives using plots
+
+How sectoral energy usage can inform infrastructure and policy
+
+---
+
+👤 Author
+Lai Yungseng
+Electrical Engineer transitioning to AI/ML Engineer
+📫 [laiyungseng@hotmail.com]
+
+
